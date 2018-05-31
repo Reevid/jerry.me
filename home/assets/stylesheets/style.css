@@ -10,8 +10,8 @@
  */
 @font-face {
   font-family: 'Junge Regular';
-  src: url(/assets/fonts/junge-regular-webfont.eot);
-  src: url(/assets/fonts/junge-regular-webfont.eot?#iefix) format('embedded-opentype'), url(/assets/fonts/junge-regular-webfont.woff) format('woff'), url(/assets/fonts/junge-regular-webfont.ttf) format('truetype'), url(/assets/fonts/junge-regular-webfont.svg#jungeregular) format('svg');
+  src: url(/jerry.me/assets/fonts/junge-regular-webfont.eot);
+  src: url(/jerry.me/assets/fonts/junge-regular-webfont.eot?#iefix) format('embedded-opentype'), url(/jerry.me/assets/fonts/junge-regular-webfont.woff) format('woff'), url(/jerry.me/assets/fonts/junge-regular-webfont.ttf) format('truetype'), url(/jerry.me/assets/fonts/junge-regular-webfont.svg#jungeregular) format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -150,7 +150,7 @@ a:focus {
   padding: 100px 0;
   text-align: center;
   color: #FFFFFF;
-  background: url(/home/assets/images/intro-bg-cass-bay.jpg) no-repeat bottom center scroll;
+  background: url(/jerry.me/home/assets/images/intro-bg-cass-bay.jpg) no-repeat bottom center scroll;
   background-color: #000000;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -265,7 +265,7 @@ a:focus {
   width: 100%;
   padding: 50px 0;
   color: #FFFFFF;
-  background: url(/home/assets/images/downloads-bg-queenstown.jpg) no-repeat center center scroll;
+  background: url(/jerry.me/home/assets/images/downloads-bg-queenstown.jpg) no-repeat center center scroll;
   background-color: #000000;
   -webkit-background-size: cover;
   -moz-background-size: cover;
